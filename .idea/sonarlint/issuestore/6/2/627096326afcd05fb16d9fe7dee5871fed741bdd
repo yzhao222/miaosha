@@ -1,0 +1,11 @@
+
+{
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ8Šã´Ã¯2
+
+java:S1149*"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¥í¢ğüÿÿÿÿ8¡ã´Ã¯2
+\
+java:S1118	":Add a private constructor to hide the implicit public one.(Ëè·“ıÿÿÿÿ8¡ã´Ã¯2
+d
+java:S1659+"BDeclare "green" and all following declarations on a separate line.(Û£ˆĞûÿÿÿÿ8¥ã´Ã¯2
+:
+java:S2119"Save and re-use this "Random".(¼İÅf8ªã´Ã¯2

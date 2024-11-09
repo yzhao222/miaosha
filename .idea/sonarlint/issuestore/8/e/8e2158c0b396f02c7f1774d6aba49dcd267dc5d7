@@ -1,0 +1,21 @@
+
+L
+java:S3740&"/Provide the parametrized type for this generic.(‚Ê«8å˜«ó¯2
+j
+java:S1192E"MDefine a constant instead of duplicating this literal "verify_code_" 3 times.(™þÂÎ8æ˜«ó¯2
+m
+java:S1192>"PDefine a constant instead of duplicating this literal "ç”¨æˆ·æœªç™»å½•" 4 times.(Ê–—«8æ˜«ó¯2
+c
+java:S1192<"FDefine a constant instead of duplicating this literal "token" 3 times.(ðŠåµ8æ˜«ó¯2
+g
+java:S44888"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Âíø‡8ö˜«ó¯2
+l
+java:S4488J"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ôóƒàýÿÿÿÿ8÷˜«ó¯2
+l
+java:S4488h"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Èâ¥Êûÿÿÿÿ8ú˜«ó¯2
+?
+java:S1116‘"Remove this empty statement.(ôŸŽìúÿÿÿÿ8ü˜«ó¯2
+h
+java:S2147™"ECombine this catch with the one at line 151, which has the same body.(åþŒóùÿÿÿÿ8ü˜«ó¯2
+|
+java:S2142—"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ü˜«ó¯2

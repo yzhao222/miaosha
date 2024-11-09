@@ -1,0 +1,17 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(‚Ê«8Äıœ¯2
+J
+java:S5411F"(Use a primitive boolean expression here.(õŠÜñûÿÿÿÿ8¶šœœ¯2
+d
+java:S2259d"GA "NullPointerException" could be thrown; "increment" is nullable here.(«¹”Ú8Îıœ¯2
+S
+java:S1854'"7Remove this useless assignment to local variable "now".(–‘…8Îıœ¯2
+D
+java:S1481'"(Remove this unused "now" local variable.(–‘…8Îıœ¯2
+S
+java:S1854L"7Remove this useless assignment to local variable "now".(–‘…8Îıœ¯2
+D
+java:S1481L"(Remove this unused "now" local variable.(–‘…8Ùıœ¯2
+C
+java:S2111v"!Use "BigDecimal.valueOf" instead.(×áºïÿÿÿÿÿ8Ùıœ¯2

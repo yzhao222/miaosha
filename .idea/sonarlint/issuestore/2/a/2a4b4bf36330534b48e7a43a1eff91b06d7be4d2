@@ -1,0 +1,20 @@
+
+L
+java:S3740."/Provide the parametrized type for this generic.(‚Ê«8Ÿ÷Ö­2
+m
+java:S1192™"ODefine a constant instead of duplicating this literal "item_validate_" 3 times.(¼é€è8‚Ÿ÷Ö­2
+~
+java:S1488N"aImmediately return this expression instead of assigning it to the temporary variable "itemModel".(´Éá8‚Ÿ÷Ö­2
+‚
+java:S1488L"eImmediately return this expression instead of assigning it to the temporary variable "itemModelList".(ÎÂ¶¬8‚Ÿ÷Ö­2
+ƒ
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "mqResult".(ÛÑÈ¼úÿÿÿÿ8‚Ÿ÷Ö­2
+c
+java:S2184k"FCast one of the operands of this multiplication operation to a "long".(¼…ÀÑ8ƒŸ÷Ö­2
+f
+java:S2259A"DA "NullPointerException" could be thrown; "itemDO" is nullable here.(»æîãıÿÿÿÿ8Ÿ÷Ö­2
+d
+java:S2259k"GA "NullPointerException" could be thrown; "increment" is nullable here.(¼…ÀÑ8Ÿ÷Ö­2
+X	java:S125j"<This block of commented-out lines of code should be removed.(…½„¤8—Ÿ÷Ö­2
+?
+java:S2111º"!Use "BigDecimal.valueOf" instead.(âßçö8‡²÷Ö­2

@@ -1,0 +1,30 @@
+
+i
+java:S11923"GDefine a constant instead of duplicating this literal "itemId" 5 times.(„íïıÿÿÿÿ8ê°ÓÕ­2
+d
+java:S11926"GDefine a constant instead of duplicating this literal "amount" 5 times.(´ºµµ8ê°ÓÕ­2
+m
+java:S11927"KDefine a constant instead of duplicating this literal "stockLogId" 4 times.(äãùæşÿÿÿÿ8ê°ÓÕ­2
+]	java:S125'"<This block of commented-out lines of code should be removed.(ñÀ™³ÿÿÿÿÿ8à³÷¯2
+V
+java:S1854K":Remove this useless assignment to local variable "amount".(»”m8ö°ÓÕ­2
+W
+java:S1854J":Remove this useless assignment to local variable "itemId".(¸Ö°Ä8ö°ÓÕ­2
+H
+java:S1481J"+Remove this unused "itemId" local variable.(¸Ö°Ä8ø°ÓÕ­2
+G
+java:S1481K"+Remove this unused "amount" local variable.(»”m8ø°ÓÕ­2
+\
+java:S4719g":Replace Charset.forName() call with StandardCharsets.UTF_8(•¾÷½üÿÿÿÿ8û°ÓÕ­2
+^
+java:S1126r"AReplace this if-then-else statement by a single return statement.(Ó¹ü8û°ÓÕ­2
+\
+java:S4719~":Replace Charset.forName() call with StandardCharsets.UTF_8(•¾÷½üÿÿÿÿ8ü°ÓÕ­2
+b
+java:S2147„"ECombine this catch with the one at line 129, which has the same body.(°İÔW8ü°ÓÕ­2
+h
+java:S2147‡"ECombine this catch with the one at line 132, which has the same body.(Æ‘Îüÿÿÿÿ8ü°ÓÕ­2
+c
+java:S2147Š"ECombine this catch with the one at line 135, which has the same body.(ä ¹€8ü°ÓÕ­2
+|
+java:S2142Š"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ü°ÓÕ­2

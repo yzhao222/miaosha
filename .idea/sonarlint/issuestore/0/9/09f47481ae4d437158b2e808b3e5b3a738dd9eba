@@ -1,0 +1,19 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(‚Ê«8¼È›®«2
+h
+java:S1192:"FDefine a constant instead of duplicating this literal "item_" 5 times.(ì•³‡ÿÿÿÿÿ8½È›®«2
+{
+java:S1488T"^Immediately return this expression instead of assigning it to the temporary variable "itemVO".(Şß­8½È›®«2
+l
+java:S4488""JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ù˜ïçıÿÿÿÿ8ÍÈ›®«2
+
+java:S11307"|Remove the declaration of thrown exception 'org.example.error.BusinessException', as it cannot be thrown from method's body.(¨½îşÿÿÿÿ8ĞÈ›®«2
+d
+java:S44885"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¶¾û28ĞÈ›®«2
+
+java:S1130P"|Remove the declaration of thrown exception 'org.example.error.BusinessException', as it cannot be thrown from method's body.(È¥şúúÿÿÿÿ8ÑÈ›®«2
+j
+java:S4488N"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(˜æÏüÿÿÿÿ8ÑÈ›®«2
+e
+java:S4488Z"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÜÊšˆ8ÓÈ›®«2

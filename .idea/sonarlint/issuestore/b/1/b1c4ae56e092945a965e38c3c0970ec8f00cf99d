@@ -1,0 +1,28 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Š€è8¢êƒò›2
+]	java:S125"<This block of commented-out lines of code should be removed.(ŸïÕ˜şÿÿÿÿ8¥êƒò›2
+b
+java:S1128"@Remove this unused import 'org.example.error.BusinessException'.(ìÿöæüÿÿÿÿ8İë†èœ2
+[
+java:S1128">Remove this unused import 'org.example.error.EmBusinessError'.(…õ¸8Şë†èœ2
+_
+java:S1128"BRemove this unused import 'org.example.response.CommonReturnType'.(»í8Şë†èœ2
+b
+java:S1128"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤Šúÿÿÿÿ8Şë†èœ2
+r
+java:S1128"URemove this unused import 'org.springframework.web.bind.annotation.ExceptionHandler'.(–Œ•¬8Şë†èœ2
+s
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.ResponseBody'.(•¶¶êøÿÿÿÿ8Şë†èœ2
+p
+java:S1128	"SRemove this unused import 'org.springframework.web.bind.annotation.ResponseStatus'.(¯×ñ8Şë†èœ2
+S
+java:S1128"6Remove this unused import 'javax.servlet.http.Cookie'.(«Şªü8Şë†èœ2
+_
+java:S1128"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8Şë†èœ2
+`
+java:S1128"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Á¨ïë8Şë†èœ2
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8Şë†èœ2
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8Şë†èœ2
